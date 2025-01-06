@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Saboulkacim</string>
-    <string name="roll_button">ROLL</string>
+    <string name="target_hint">Entrez un nombre cible</string>
+    <string name="roll_button">Lancer</string>
+    <string name="empty_text"></string>
+    <string name="win_message">Félicitations ! Vous avez gagné !</string>
+    <string name="lose_message">Perdu ! Essayez encore.</string>
     <string name="result_text"></string>
+    <string name="Nombre_cible"></string>
 </resources>
